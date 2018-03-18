@@ -1,2 +1,3 @@
 # hello-world
-the first folder in the repository
+
+Here is a little bit about me. I am JJ209.
